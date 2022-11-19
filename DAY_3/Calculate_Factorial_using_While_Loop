@@ -1,3 +1,4 @@
+//Java Program To Calculate Factorial using While Loop
 import java.util.Scanner;
 
 class Factrl
