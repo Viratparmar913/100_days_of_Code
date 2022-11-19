@@ -20,5 +20,5 @@ System.out.println("enter how many numbers you want sum");
                            sum+=a[i];
                    }  	    
                    System.out.println("sum of "+n+" numbers is ="+sum);                  
-              	}
+      	}
 } 
