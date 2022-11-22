@@ -17,5 +17,5 @@ class Example1
       }
       if (i == a.length)
         System.out.println(key + " doesn't exist in array.");
-   }
+     }
 }
