@@ -2,8 +2,7 @@
 
 import java.util.Scanner;
 public class ISort
-{
- 
+{ 
 public static void Sort(int a[])
 { 
 int n=a.length,i,j,p,temp;
