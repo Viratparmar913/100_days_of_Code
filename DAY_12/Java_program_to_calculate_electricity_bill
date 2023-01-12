@@ -1,3 +1,4 @@
+//Java program to calculate electricity using the static method 
 import java.util.*;
 class ComputeElectricityBill 
 { 
