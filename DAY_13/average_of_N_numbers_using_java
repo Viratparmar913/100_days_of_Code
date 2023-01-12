@@ -1,3 +1,4 @@
+//Java Program Calculate Average Using Standard values
 class Average
 {
  public static void main(String arg[])	
