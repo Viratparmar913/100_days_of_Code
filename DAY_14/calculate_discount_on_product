@@ -1,3 +1,4 @@
+ //Java program to calculate Discount ( Using standard values )
 class Discount
 {
 	public static void main(String args[])
