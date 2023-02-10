@@ -1,9 +1,6 @@
 
 /*
 Problem Statement
-Welcome to Day 8! Check out a video review of dictionaries and hashmaps here
-	(https://www.youtube.com/watch?v=nbDhDMYxUEw&feature=youtu.be), or just jump
-	right into the problem.
 You are given a phone book that consists of your friend's names and their phone number.
 	After that you will be given your friend's name as query. For each query, print the
 	phone number of your friend.
